@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pemaram&label=Profile%20views&color=0e75b6&style=flat" alt="pemaram" /> </p>
 
-- 💬 Ask me about **HTML, CSS, Javascript,MEAN**
+- 💬 Ask me about **HTML, CSS, Javascript,MEAN Stack**
 
 - 📫 How to reach me **sn2g298@gmail.com**
 
