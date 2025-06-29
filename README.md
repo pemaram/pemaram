@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1200&lines=JavaScript+%7C+ReactJS+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8c3f.gif" width="400" alt="Developer Coding" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
