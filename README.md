@@ -106,11 +106,11 @@
 ### 🎯 Fun Fact
 
 <p align="left">
-  <b>Behind every feature you love,</b> there’s a dev who whispered “just one last console.log...” at 3 AM. <br/><br/>
+  <b>Behind every feature you love,</b> there’s a dev who whispered “just one last <code>console.log...” at 3 AM.</code> <br/><br/>
   ☕ My blood type is <code>coffee()</code> — straight from a looped API call.<br/>
   🔍 My favorite IDE feature? "Find where I messed up." <br/>
   🔧 If it works on my machine, I ship it. (jk, I write tests... sometimes 😉)<br/>
-  🧠 I believe clean code > clever code. But hey, a little chaos is where the magic lives.<br/>
+  🧠 I believe <code>clean code</code> > <code>clever code</code>. But hey, a little chaos is where the magic lives.<br/>
 </p>
 
 ---
