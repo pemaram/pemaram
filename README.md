@@ -46,14 +46,28 @@
 
 ---
 
-### 🔧 What I Work On
+### 🛠️ What I Work On
 
-- 🔌 REST & GraphQL APIs with NestJS, Express & ReactJS (Frontend)
-- 🧱 Microservices with Redis Queues and Worker Threads
-- 🗂️ Document processing (ImageMagick, AWS S3, PDFs)
-- 🔐 Auth (JWT, Google/Firebase, Role-based Access)
-- 📊 Custom dashboards, reports, logging, and analytics
-- ☁️ CI/CD pipelines, Docker containers, serverless functions
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/API%20Development-NestJS%20%7C%20Express%20%7C%20React-00C2FF?style=for-the-badge&logo=nestjs&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Microservices-Redis%20Queues%20%7C%20Worker%20Threads-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Document%20Processing-ImageMagick%20%7C%20AWS%20S3%20%7C%20PDFs-F7DF1E?style=for-the-badge&logo=imagemagick&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Auth%20%26%20Security-JWT%20%7C%20Firebase%20%7C%20RBAC-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Reporting%20%26%20Analytics-Dashboards%20%7C%20Logs%20%7C%20Exports-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CI%2FCD%20%7C%20Serverless-Docker%20%7C%20GitHub%20Actions%20%7C%20AWS%20Lambda-232F3E?style=for-the-badge&logo=docker&logoColor=white" /></td>
+  </tr>
+</table>
 
 ---
 
