@@ -1,23 +1,88 @@
+<h1 align="center">🚀 Pemaram Siravi</h1>
+<h3 align="center">Full Stack Engineer | 3.5+ Years Experience | India 🇮🇳</h3>
 
-<h1 align="center">Hi 👋, I'm Pemaram Siravi</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pemaram&label=Profile%20views&color=0e75b6&style=flat" alt="pemaram" /> </p>
-
-- 💬 Ask me about **HTML, CSS, Javascript, MEAN Stack**
-
-- 📫 How to reach me **sn2g298@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pemaram-siravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pemaram-siravi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4BFFA5&center=true&vCenter=true&width=435&lines=JavaScript+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL+%7C+React" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/374987f773148e46b1853a30a1f6a50d19d7f3f82cdd9249028b21c9bad6e4e9/68747470733a2f2f63646e2e646f636b657270726f6a6563742e636f6d2f70726f64756374696f6e2d75706c6f6164732f66696c652f6f75746c696e65732f646576656c6f7065722e676966" width="400" alt="Coding Guy" />
+</p>
 
-<span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pemaram&show_icons=true&locale=en&layout=compact" alt="pemaram" /></span>
+---
 
-<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&locale=en" alt="pemaram" /></span>
+### 👨‍💻 About Me
+
+🔹 A passionate **Full Stack Engineer** with 3.5+ years of experience building scalable, maintainable, and performant applications.  
+🔹 Focused on delivering backend-driven, RESTful, and real-time systems.  
+🔹 I enjoy solving complex problems, working with microservices, integrating 3rd-party APIs, and deploying services at scale.  
+🔹 Currently working on document management systems, microservice architecture, and serverless functions.
+
+---
+
+### 🧰 Tech Stack
+
+#### 🚀 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
+</p>
+
+#### 🗃️ Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</p>
+
+#### ☁️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ImageMagick-000000?logo=imagemagick&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🧠 What I Work On
+
+- 🔧 REST & GraphQL APIs with NestJS and Express
+- 📦 Microservices architecture with Redis queues
+- 🗂️ Document processing with ImageMagick, AWS S3
+- 🔐 Authentication, RBAC, and security best practices
+- 🧾 Custom reporting, analytics, and event-driven systems
+- ☁️ CI/CD and Dockerized deployments
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=radical" width="47%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:sn2g298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pemaram-siravi"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pemaram"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+🧠 I automate boring tasks, love debugging complex flows, and I believe well-structured code is a form of art.
+
+---
 
