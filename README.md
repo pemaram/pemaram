@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Engineer | 3.5+ Years Experience | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=JavaScript+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=00FFCC&center=true&vCenter=true&width=435&lines=JavaScript+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL+%7C+ReactJS" alt="Typing SVG" />
 </p>
 
 <p align="center">
