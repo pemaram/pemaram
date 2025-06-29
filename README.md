@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Engineer | 3.5+ Years Experience | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Node.js%2FNestJS+Microservices+%7C+AWS+Cloud+Infra+Expert;3.5%2B+Years+Building+Resilient+Systems+%7C+PDF+%26+OCR+Automation" alt="Expertise Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Node.js%2FNestJS+Microservices+%7C+AWS+Cloud+Infra+Expert;React.js%2C+TypeScript+%7C+Frontend+Development+Focus;Robust+Backend+Systems+%7C+REST%2FGraphQL+APIs+%7C+Real-time+Apps;3.5%2B+Years+Building+Resilient+Systems+in+Production;PDF+%26+OCR+Automation+%7C+AWS+S3+Pipelines+%7C+Redis+Workers" alt="Expertise Banner" />
 </p>
 
 ---
