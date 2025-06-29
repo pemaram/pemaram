@@ -78,25 +78,40 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&theme=vue-dark&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&bg_color=0d1117" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=vue-dark&title_color=00C2FF&text_color=FFFFFF&bg_color=0d1117" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&rank_icon=github&theme=tokyonight&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=pemaram&theme=tokyonight&border_radius=4.5&dates=00C2FF&fire=DD2727&ring=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="60%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🤝 Let's Connect
 
-<p align="left">
-  <a href="mailto:sn2g298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pemaram-siravi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/pemaram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:sn2g298@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pemaram-siravi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pemaram" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🎯 Fun Fact
 
-🧠 I believe debugging is like being a detective in a crime movie where *you are also the murderer* 😄  
-💻 I love building tools that make other developers' lives easier!
+<p align="left">
+  <img src="https://media.giphy.com/media/XHAv3GDsA2VbD4nPUP/giphy.gif" width="60" align="left" />
+  <b>Debugging:</b> It's like being the detective in a mystery movie where <b>you're also the murderer</b>. <br/><br/>
+  🧠 I love automating boring tasks, writing clean scalable code, and turning coffee into features.<br/>
+  🚀 The best feeling? Solving a bug that’s been haunting you for hours... with a missing semicolon 😅<br/>
+  🤖 I'm the kind of developer who creates a CLI tool just to avoid opening Slack.
+</p>
 
 ---
