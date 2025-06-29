@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack Engineer | 3.5+ Years Experience | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4BFFA5&center=true&vCenter=true&width=435&lines=JavaScript+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=JavaScript+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL+%7C+React" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/374987f773148e46b1853a30a1f6a50d19d7f3f82cdd9249028b21c9bad6e4e9/68747470733a2f2f63646e2e646f636b657270726f6a6563742e636f6d2f70726f64756374696f6e2d75706c6f6164732f66696c652f6f75746c696e65732f646576656c6f7065722e676966" width="400" alt="Coding Guy" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8c3f.gif" width="400" alt="Developer Coding" />
 </p>
 
 ---
@@ -24,40 +24,40 @@
 
 #### 🚀 Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 #### 🗃️ Databases & Caching
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### ☁️ DevOps & Tools
+#### ☁️ Cloud & Tools
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/ImageMagick-000000?logo=imagemagick&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ImageMagick-black?style=for-the-badge&logo=imagemagick&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 What I Work On
+### 🔧 What I Work On
 
-- 🔧 REST & GraphQL APIs with NestJS and Express
-- 📦 Microservices architecture with Redis queues
-- 🗂️ Document processing with ImageMagick, AWS S3
-- 🔐 Authentication, RBAC, and security best practices
-- 🧾 Custom reporting, analytics, and event-driven systems
-- ☁️ CI/CD and Dockerized deployments
+- 🔌 REST & GraphQL APIs with NestJS and Express
+- 🧱 Microservices with Redis Queues and Worker Threads
+- 🗂️ Document processing (ImageMagick, AWS S3, PDFs)
+- 🔐 Auth (JWT, Google/Firebase, Role-based Access)
+- 📊 Custom dashboards, reports, logging, and analytics
+- ☁️ CI/CD pipelines, Docker containers, serverless functions
 
 ---
 
@@ -70,19 +70,19 @@
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:sn2g298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pemaram-siravi"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/pemaram"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <a href="mailto:sn2g298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pemaram-siravi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pemaram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧩 Fun Fact
+### 🎯 Fun Fact
 
-🧠 I automate boring tasks, love debugging complex flows, and I believe well-structured code is a form of art.
+🧠 I believe debugging is like being a detective in a crime movie where *you are also the murderer* 😄  
+💻 I love building tools that make other developers' lives easier!
 
 ---
-
