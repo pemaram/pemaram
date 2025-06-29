@@ -77,14 +77,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&rank_icon=github&theme=tokyonight&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=pemaram&theme=tokyonight&border_radius=4.5&dates=00C2FF&fire=DD2727&ring=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="48%" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&rank_icon=github&theme=tokyonight&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="32%" />
+  
+  <img src="https://streak-stats.demolab.com?user=pemaram&theme=tokyonight&border_radius=4.5&dates=00C2FF&fire=DD2727&ring=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF" width="32%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="32%" />
+</div>
 
 ---
 
@@ -107,8 +106,6 @@
 ### 🎯 Fun Fact
 
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80" align="left" style="margin-right: 10px;" />
-
   <b>Behind every feature you love,</b> there’s a dev who whispered “just one last console.log...” at 3 AM. <br/><br/>
 
   ☕ My blood type is <code>coffee()</code> — straight from a looped API call.<br/>
