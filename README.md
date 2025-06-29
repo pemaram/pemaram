@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Engineer | 3.5+ Years Experience | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1200&lines=JavaScript+%7C+ReactJS+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1200&lines=JavaScript+%7C+Node.js+%7C+NestJS+%7C+MongoDB+%7C+Redis+%7C+AWS+%7C+SQL+%7C+React" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8c3f.gif" width="400" alt="Developer Coding" />
 </p>
 
 ---
@@ -48,7 +52,7 @@
 
 ### 🔧 What I Work On
 
-- 🔌 REST & GraphQL APIs with NestJS and Express
+- 🔌 REST & GraphQL APIs with NestJS, Express & ReactJS (Frontend)
 - 🧱 Microservices with Redis Queues and Worker Threads
 - 🗂️ Document processing (ImageMagick, AWS S3, PDFs)
 - 🔐 Auth (JWT, Google/Firebase, Role-based Access)
@@ -60,8 +64,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&theme=vue-dark&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&bg_color=0d1117" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=vue-dark&title_color=00C2FF&text_color=FFFFFF&bg_color=0d1117" width="47%" />
 </p>
 
 ---
