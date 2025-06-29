@@ -7,12 +7,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-🔹 A passionate **Full Stack Engineer** with 3.5+ years of experience building scalable, maintainable, and performant applications.  
-🔹 Focused on delivering backend-driven, RESTful, and real-time systems.  
-🔹 I enjoy solving complex problems, working with microservices, integrating 3rd-party APIs, and deploying services at scale.  
-🔹 Currently working on document management systems, microservice architecture, and serverless functions.
+✅ A passionate **Full Stack Engineer** with 3.5+ years of experience building scalable, maintainable, and high-performance applications  
+⚙️ Specialized in backend-driven development with RESTful and real-time architectures  
+🔁 Enthusiastic about solving complex problems, integrating 3rd-party APIs, and working with event-driven microservices  
+🚀 Currently working on document management systems, microservice architecture, and serverless functions on AWS
 
 ---
 
