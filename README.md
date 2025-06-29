@@ -49,7 +49,7 @@
 ### 🛠️ What I Work On
 
 <p>
-  <img src="https://img.shields.io/badge/API_Development-NestJS_·_Express_·_React-00C2FF?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_&_UI_Development-NestJS_·_Express_·_React-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 <p>
