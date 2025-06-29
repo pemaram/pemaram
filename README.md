@@ -1,101 +1,77 @@
-<h1 align="center">👨‍💻 Pemaram Siravi | Full Stack Engineer</h1>
-<h3 align="center">Scalable Systems | Microservices | AWS Cloud | PDF Automation</h3>
+<h1 align="center">🚀 Pemaram Siravi</h1>
+<h3 align="center">Full Stack Engineer | 3.5+ Years Experience | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=20C997&center=true&vCenter=true&width=800&lines=Node.js%2FNestJS+Microservices+%7C+AWS+Cloud+Infra+Expert;3.5%2B+Years+Building+Resilient+Systems+%7C+PDF+%26+OCR+Automation" alt="Expertise Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Node.js%2FNestJS+Microservices+%7C+AWS+Cloud+Infra+Expert;3.5%2B+Years+Building+Resilient+Systems+%7C+PDF+%26+OCR+Automation" alt="Expertise Banner" />
 </p>
 
 ---
 
-## 🔍 Core Competencies
+### 👨‍💻 About Me
 
-- **Backend Engineering**: Microservices · RESTful APIs · Real-time Systems
-- **Cloud Infrastructure**: AWS · Serverless · Docker · GitHub Actions
-- **Data Engineering**: MongoDB · Redis · SQL · Aggregations
-- **System Architecture**: Event-Driven · Distributed Workers · Message Queues
-
----
-
-## 🛠️ Technical Arsenal
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=flat-square)
-
-**Frontend & Data**
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)
+🔹 A passionate **Full Stack Engineer** with 3.5+ years of experience building scalable, maintainable, and performant applications.  
+🔹 Focused on delivering backend-driven, RESTful, and real-time systems.  
+🔹 I enjoy solving complex problems, working with microservices, integrating 3rd-party APIs, and deploying services at scale.  
+🔹 Currently working on document management systems, microservice architecture, and serverless functions.
 
 ---
 
-## 🏗️ Production-Proven Expertise
+### 🧰 Tech Stack
 
-| **Domain**             | **Implementation**                                                  |
-|------------------------|----------------------------------------------------------------------|
-| Distributed Systems    | Redis Queues · Worker Threads · Event-Driven Architecture           |
-| Document Engineering   | PDF & OCR Automation · AWS S3 Pipelines · ImageMagick               |
-| Security & Auth        | JWT · RBAC · Firebase Auth · Token Rotation · Rate Limiting         |
-| Infrastructure         | Docker · AWS Lambda · Auto-Scaling · CloudWatch                     |
-| Data Solutions         | Redis Caching · MongoDB Aggregation Pipelines · SQL Optimization    |
+#### 🚀 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 
----
+#### 🗃️ Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-## 📊 System Optimization Focus
-
-```
-API Latency Reduction:        ████████████████████ 35%
-Memory Utilization:           ██████████████       25%
-Database Query Efficiency:    ██████████           20%
-Scalability Solutions:        ███████              15%
-Cost Optimization:            ██                   5%
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 DocuFlow Engine
-> **Enterprise Document Pipeline**
-
-**Stack**: NestJS · AWS Lambda · Redis · ImageMagick  
-- ⏱️ Reduced PDF processing time by **62%** using parallel worker threads  
-- 📈 Processed over **500k documents/month** with **99.97% uptime**
+#### ☁️ Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ImageMagick-black?style=for-the-badge&logo=imagemagick&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 🔹 AuthShield Microservice
-> **Centralized Authentication System**
+### 🛠️ What I Work On
 
-**Stack**: Node.js · JWT · Redis · RBAC  
-- 🔐 Unified authentication across **12+ internal services**  
-- 🛡️ Reduced token-related issues by **84%** using token rotation strategy
+<p>
+  <img src="https://img.shields.io/badge/API_&_UI_Development-NestJS_·_Express_·_React-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Microservices-Redis_Queues_·_Worker_Threads-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-## 🧩 Sample Architecture (Auth + Doc Processing Flow)
+<p>
+  <img src="https://img.shields.io/badge/Document_Processing-ImageMagick_·_AWS_S3_·_PDFs-F7DF1E?style=for-the-badge&logo=imagemagick&logoColor=black" />
+</p>
 
-```
-Client → API Gateway
-         ├── Auth Service
-         └── Document Service
-               ├── Redis Queue
-               │     ├── Worker 1 → MongoDB
-               │     └── Worker 2 → MongoDB
-               └── AWS S3
-```
+<p>
+  <img src="https://img.shields.io/badge/Auth_&_Security-JWT_·_Firebase_·_RBAC-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Reporting_&_Analytics-Dashboards_·_Logs_·_Exports-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CI/CD_&_Serverless-Docker_·_GitHub_Actions_·_AWS_Lambda-232F3E?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 ---
 
@@ -121,3 +97,16 @@ Client → API Gateway
     <img src="https://img.shields.io/badge/GitHub-Explore-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+---
+
+### 🎯 Fun Fact
+
+<p align="left">
+  <b>Behind every feature you love,</b> there’s a dev who whispered “just one last <code>console.log...” at 3 AM.</code> <br/><br/>
+  ☕ My blood type is <code>coffee()</code> — straight from a looped API call.<br/>
+  🔍 My favorite IDE feature? "Find where I messed up." <br/>
+  🔧 If it works on my machine, I ship it. (jk, I write tests... sometimes 😉)<br/>
+  🧠 I believe <code>clean code</code> > <code>clever code</code>. But hey, a little chaos is where the magic lives.<br/>
+</p>
+
+---
