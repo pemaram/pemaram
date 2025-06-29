@@ -77,20 +77,20 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&rank_icon=github&theme=tokyonight&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=pemaram&theme=tokyonight&border_radius=4.5&dates=00C2FF&fire=DD2727&ring=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF" width="47%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pemaram&show_icons=true&rank_icon=github&theme=tokyonight&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=pemaram&theme=tokyonight&border_radius=4.5&dates=00C2FF&fire=DD2727&ring=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="60%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemaram&layout=compact&theme=tokyonight&title_color=00C2FF&text_color=ffffff&bg_color=0d1117" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:sn2g298@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -107,11 +107,14 @@
 ### 🎯 Fun Fact
 
 <p align="left">
-  <img src="https://media.giphy.com/media/XHAv3GDsA2VbD4nPUP/giphy.gif" width="60" align="left" />
-  <b>Debugging:</b> It's like being the detective in a mystery movie where <b>you're also the murderer</b>. <br/><br/>
-  🧠 I love automating boring tasks, writing clean scalable code, and turning coffee into features.<br/>
-  🚀 The best feeling? Solving a bug that’s been haunting you for hours... with a missing semicolon 😅<br/>
-  🤖 I'm the kind of developer who creates a CLI tool just to avoid opening Slack.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80" align="left" style="margin-right: 10px;" />
+
+  <b>Behind every feature you love,</b> there’s a dev who whispered “just one last console.log...” at 3 AM. <br/><br/>
+
+  ☕ My blood type is <code>coffee()</code> — straight from a looped API call.<br/>
+  🔍 My favorite IDE feature? "Find where I messed up." <br/>
+  🔧 If it works on my machine, I ship it. (jk, I write tests... sometimes 😉)<br/>
+  🧠 I believe clean code > clever code. But hey, a little chaos is where the magic lives.<br/>
 </p>
 
 ---
