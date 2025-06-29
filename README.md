@@ -48,26 +48,30 @@
 
 ### 🛠️ What I Work On
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/API%20Development-NestJS%20%7C%20Express%20%7C%20React-00C2FF?style=for-the-badge&logo=nestjs&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Microservices-Redis%20Queues%20%7C%20Worker%20Threads-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Document%20Processing-ImageMagick%20%7C%20AWS%20S3%20%7C%20PDFs-F7DF1E?style=for-the-badge&logo=imagemagick&logoColor=black" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Auth%20%26%20Security-JWT%20%7C%20Firebase%20%7C%20RBAC-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Reporting%20%26%20Analytics-Dashboards%20%7C%20Logs%20%7C%20Exports-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/CI%2FCD%20%7C%20Serverless-Docker%20%7C%20GitHub%20Actions%20%7C%20AWS%20Lambda-232F3E?style=for-the-badge&logo=docker&logoColor=white" /></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/API_Development-NestJS_·_Express_·_React-00C2FF?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microservices-Redis_Queues_·_Worker_Threads-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Document_Processing-ImageMagick_·_AWS_S3_·_PDFs-F7DF1E?style=for-the-badge&logo=imagemagick&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Auth_&_Security-JWT_·_Firebase_·_RBAC-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Reporting_&_Analytics-Dashboards_·_Logs_·_Exports-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CI/CD_&_Serverless-Docker_·_GitHub_Actions_·_AWS_Lambda-232F3E?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 ---
 
